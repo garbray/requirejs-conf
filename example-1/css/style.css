@@ -1,0 +1,44 @@
+html {
+	font-family: georgia;
+}
+
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	border-bottom: 1px solid #4E6D8D;
+	float: left;
+	width: 300px;
+}
+
+li p {
+	margin: 0;
+	padding: 15px;
+	font-weight: bolder;
+}
+
+#container {
+	background-color: #4E6D8D;
+	border-radius: 5px;
+	border: solid #4E6D8D;
+	height: 500px;
+	margin: 0 auto;
+	width: 300px;
+}
+
+#container h3 {
+	color: #FFF;
+	margin: 0;
+	padding: 20px;
+}
+
+#tweets-container{
+	background-color: white;
+	border-radius: 5px;
+	height: 440px;
+	overflow: auto;
+	width: 300px;
+}
