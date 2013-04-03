@@ -1,3 +1,3 @@
-require(['widgets/tweets'],function(getTweet){
-	//new getTweet();
+require(['widgets/tweets'], function(getTweet) {
+	new getTweet();
 });

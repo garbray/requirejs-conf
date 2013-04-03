@@ -9,7 +9,7 @@ ul{
 }
 
 li {
-	border-bottom: 1px solid #4E6D8D;
+	border-bottom: 2px solid #4E6D8D;
 	float: left;
 	width: 300px;
 }
@@ -22,8 +22,8 @@ li p {
 
 #container {
 	background-color: #4E6D8D;
+	border: 1px solid #4E6D8D;
 	border-radius: 5px;
-	border: solid #4E6D8D;
 	height: 500px;
 	margin: 0 auto;
 	width: 300px;
@@ -35,7 +35,7 @@ li p {
 	padding: 20px;
 }
 
-#tweets-container{
+#list-tweets{
 	background-color: white;
 	border-radius: 5px;
 	height: 440px;
